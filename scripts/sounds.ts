@@ -45,13 +45,6 @@
         request.send();
     }
 
-    ////Severity	Code	Description	Project	File	Line	Suppression State
-    //Error	TS2345(TS) Argument of type '(errorCallback?: DecodeErrorCallback) => void' is not assignable to parameter of type 'DecodeErrorCallback'.
-    //Types of parameters 'errorCallback' and 'error' are incompatible.
-    //    Type 'DOMException' is not assignable to type 'DecodeErrorCallback'.
-    //        Type 'DOMException' provides no match for the signature '(error: DOMException): void'.SoundTest	C: \Users\aburr\Documents\Visual Studio 2015\Projects\soundTest\SoundTest\scripts\sounds.ts	40	Active
-
-
     // ----------------------------------------------------------------
     export function playSound(): void {
         playSoundFromBuffer(audioBuffer);
