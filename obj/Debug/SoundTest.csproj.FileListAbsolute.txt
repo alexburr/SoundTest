@@ -1,0 +1,7 @@
+C:\Users\aburr\Documents\Visual Studio 2015\Projects\soundTest\SoundTest\obj\Debug\SoundTest.csprojResolveAssemblyReference.cache
+C:\Users\aburr\Documents\Visual Studio 2015\Projects\soundTest\SoundTest\bin\SoundTest.dll.config
+C:\Users\aburr\Documents\Visual Studio 2015\Projects\soundTest\SoundTest\bin\SoundTest.dll
+C:\Users\aburr\Documents\Visual Studio 2015\Projects\soundTest\SoundTest\bin\SoundTest.pdb
+C:\Users\aburr\Documents\Visual Studio 2015\Projects\soundTest\SoundTest\obj\Debug\SoundTest.dll
+C:\Users\aburr\Documents\Visual Studio 2015\Projects\soundTest\SoundTest\obj\Debug\SoundTest.pdb
+C:\Users\aburr\Documents\Visual Studio 2015\Projects\soundTest\SoundTest\obj\Debug\SoundTest.csproj.CoreCompileInputs.cache

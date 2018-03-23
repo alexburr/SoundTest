@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Click Track</title>
+    <link rel="stylesheet" href="app.css" type="text/css" />
+    <script src="https://use.fontawesome.com/89ac3bd4a1.js"></script>
+    <script src="scripts/samples.js"></script>
+    <script src="scripts/sounds.js"></script>
+    <script src="scripts/Metronome.js"></script>
+    <script src="scripts/app.js"></script>
+</head>
+<body>
+    <section id="inputs">
+        <p>
+            <input id="timeoutInput" type="number" value="120" min="1" max="10000" disabled="disabled" />
+        </p>
+        <p>
+            <select id="soundSelect" disabled="disabled"></select>
+        </p>
+    </section>
+    <section id="buttons">
+        <button id="startButton" disabled="disabled"><i class="fa fa-play" aria-hidden="true"></i></button>
+        <button id="stopButton" disabled="disabled"><i class="fa fa-stop" aria-hidden="true"></i></button>
+    </section>
+</body>
+</html>
